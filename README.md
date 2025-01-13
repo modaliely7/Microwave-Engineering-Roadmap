@@ -3,10 +3,10 @@ Here we collect all the availabe resources to learn Microwave Engineering
 
 A new Road Map to the Microwave Engineering Career
 
-## Fundamentals for Beginners
+## Fundamentals 
 
-**1. Beginner Python:** <br>
-:tv: [P1]() OR :tv: [P]() (Arabic Course) <br> <!--30 days--> 
+**1. Microwave Engineering:** <br>
+:tv: [EECE 2020 | Microwave | 3rd Year | 1st Term](https://www.youtube.com/playlist?list=PLBajgtqPAZzBvPikAkSADSgJ4TU040pjy) (Arabic Course) <br> <!--30 days--> 
 :tv: [O]() (Arabic Course) <br>
 
 **2. Math:** <br>
