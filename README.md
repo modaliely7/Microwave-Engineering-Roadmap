@@ -20,12 +20,6 @@ A new Road Map to the Microwave Engineering Career
 
 
 ## Intermediate
-**1. Advanced Python:** <br>
-:tv: [Advanced Python1](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc) <br>
-:tv: [Advanced Python2](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) <br>
 
-
-**2. Algorithms and Data structure:** <br>
-:tv:[Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)(still)<br>
 
 ## Advanced
